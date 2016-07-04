@@ -1,0 +1,33 @@
+body{
+  blackground: red;
+}
+
+
+gallery{
+
+  margin: 10px;
+}
+
+.makers{
+width: 10%;
+}
+
+.elementa{
+  blackground: #eee;
+  padding: 10px 10px;
+}
+
+.elementb{
+  blackground: #eee;
+  padding: 10px 10px;
+}
+
+.elementc{
+  blackground: #eee;
+  padding: 10px 10px;
+}
+
+
+.imagen {
+  width: 100%;
+}
